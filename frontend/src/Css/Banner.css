@@ -1,0 +1,12 @@
+.slide{
+    width: 100vh;
+    height: 500px;
+    padding: 0 100px;
+   position: relative;
+
+}
+.slide >img{
+    width: 100%;
+}
+
+
